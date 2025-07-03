@@ -34,6 +34,7 @@
                     </div>
                     <button class="btn border w-100" type="submit" name="update">Create</button>
                 </form>
+            <?php endforeach ?>
         </div>
     </main>
 </body>
